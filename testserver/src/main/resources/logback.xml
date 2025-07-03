@@ -1,0 +1,13 @@
+<configuration>
+    <conversionRule conversionWord="ethylene" class="dev.tonimatas.test.TestColorConverter"/>
+    
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%gray(%d{HH:mm:ss})] [%ethylene(%level)] [%cyan(%logger{36})] %ethylene(%msg)\_%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="info">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+</configuration>
