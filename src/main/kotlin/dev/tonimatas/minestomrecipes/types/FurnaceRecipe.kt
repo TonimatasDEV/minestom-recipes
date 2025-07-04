@@ -1,11 +1,8 @@
 package dev.tonimatas.minestomrecipes.types
 
 import dev.tonimatas.minestomrecipes.api.RecipeResult
-import dev.tonimatas.minestomrecipes.util.ExtraCodecs
 import dev.tonimatas.minestomrecipes.util.IngredientUtils
 import dev.tonimatas.minestomrecipes.util.RecipesUtils
-import net.minestom.server.codec.Codec
-import net.minestom.server.codec.StructCodec
 import net.minestom.server.item.Material
 import net.minestom.server.recipe.Ingredient
 import net.minestom.server.recipe.Recipe
@@ -13,25 +10,30 @@ import net.minestom.server.recipe.RecipeBookCategory
 import net.minestom.server.recipe.display.RecipeDisplay
 import net.minestom.server.recipe.display.SlotDisplay
 
-
-class CraftingShapelessRecipe(
-    val group: String?,
-    val category: RecipeBookCategory,
+open class FurnaceRecipe(
     val result: RecipeResult,
-    val ingredients: List<String>
+    val experience: Float,
+    val category: RecipeBookCategory,
+    val cookingTime: Int,
+    val group: String?,
+    val ingredient: String,
+    val station: Material
 ) : Recipe {
     override fun createRecipeDisplays(): List<RecipeDisplay?> {
         return listOf(
-            RecipeDisplay.CraftingShapeless(
-                RecipesUtils.getIngredients(ingredients),
+            RecipeDisplay.Furnace(
+                RecipesUtils.getIngredients(listOf(ingredient)).first(),
+                SlotDisplay.AnyFuel.INSTANCE,
                 SlotDisplay.ItemStack(result.getResult()),
-                SlotDisplay.Item(Material.CRAFTING_TABLE)
+                SlotDisplay.Item(station),
+                cookingTime,
+                experience
             )
         )
     }
 
     override fun craftingRequirements(): List<Ingredient?>? {
-        val displaySlots = RecipesUtils.getIngredients(ingredients)
+        val displaySlots = RecipesUtils.getIngredients(listOf(ingredient))
         return displaySlots.map { IngredientUtils.fromSlotDisplay(it) }.toList()
     }
 
@@ -41,15 +43,5 @@ class CraftingShapelessRecipe(
 
     override fun recipeBookGroup(): String? {
         return group
-    }
-
-    companion object {
-        val CODEC: StructCodec<CraftingShapelessRecipe> = StructCodec.struct(
-            "group", Codec.STRING.optional(), CraftingShapelessRecipe::group,
-            "category", RecipeBookCategory.CODEC.optional(), CraftingShapelessRecipe::category,
-            "result", ExtraCodecs.RESULT.optional(), CraftingShapelessRecipe::result,
-            "ingredients", Codec.STRING.list(), CraftingShapelessRecipe::ingredients,
-            ::CraftingShapelessRecipe
-        )
     }
 }

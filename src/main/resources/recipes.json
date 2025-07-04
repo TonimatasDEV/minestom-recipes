@@ -414,7 +414,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:potato",
     "type": "minecraft:smoking"
   },
@@ -2791,7 +2791,7 @@
     "experience": 0.1,
     "cookingtime": 100,
     "group": "coal",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:coal_ore",
     "type": "minecraft:blasting"
   },
@@ -2802,7 +2802,7 @@
     "experience": 0.1,
     "cookingtime": 100,
     "group": "coal",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_coal_ore",
     "type": "minecraft:blasting"
   },
@@ -3101,7 +3101,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:beef",
     "type": "minecraft:smoking"
   },
@@ -3131,7 +3131,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:chicken",
     "type": "minecraft:smoking"
   },
@@ -3161,7 +3161,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:cod",
     "type": "minecraft:smoking"
   },
@@ -3191,7 +3191,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:mutton",
     "type": "minecraft:smoking"
   },
@@ -3221,7 +3221,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:porkchop",
     "type": "minecraft:smoking"
   },
@@ -3251,7 +3251,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:rabbit",
     "type": "minecraft:smoking"
   },
@@ -3281,7 +3281,7 @@
     },
     "experience": 0.35,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:salmon",
     "type": "minecraft:smoking"
   },
@@ -3393,7 +3393,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "copper_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:copper_ore",
     "type": "minecraft:blasting"
   },
@@ -3404,7 +3404,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "copper_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_copper_ore",
     "type": "minecraft:blasting"
   },
@@ -3415,7 +3415,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "copper_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:raw_copper",
     "type": "minecraft:blasting"
   },
@@ -4959,7 +4959,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "diamond",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_diamond_ore",
     "type": "minecraft:blasting"
   },
@@ -4970,7 +4970,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "diamond",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:diamond_ore",
     "type": "minecraft:blasting"
   },
@@ -5251,7 +5251,7 @@
     },
     "experience": 0.1,
     "cookingtime": 100,
-    "category": "food",
+    "category": "smoker_food",
     "ingredient": "minecraft:kelp",
     "type": "minecraft:smoking"
   },
@@ -6738,7 +6738,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "emerald",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_emerald_ore",
     "type": "minecraft:blasting"
   },
@@ -6749,7 +6749,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "emerald",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:emerald_ore",
     "type": "minecraft:blasting"
   },
@@ -7453,7 +7453,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "gold_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_gold_ore",
     "type": "minecraft:blasting"
   },
@@ -7464,7 +7464,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "gold_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:gold_ore",
     "type": "minecraft:blasting"
   },
@@ -7475,7 +7475,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "gold_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:nether_gold_ore",
     "type": "minecraft:blasting"
   },
@@ -7486,7 +7486,7 @@
     "experience": 1.0,
     "cookingtime": 100,
     "group": "gold_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:raw_gold",
     "type": "minecraft:blasting"
   },
@@ -7580,7 +7580,7 @@
     },
     "experience": 0.1,
     "cookingtime": 100,
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": [
       "minecraft:golden_pickaxe",
       "minecraft:golden_shovel",
@@ -8562,7 +8562,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "iron_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_iron_ore",
     "type": "minecraft:blasting"
   },
@@ -8573,7 +8573,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "iron_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:iron_ore",
     "type": "minecraft:blasting"
   },
@@ -8584,7 +8584,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "iron_ingot",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:raw_iron",
     "type": "minecraft:blasting"
   },
@@ -8683,7 +8683,7 @@
     },
     "experience": 0.1,
     "cookingtime": 100,
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": [
       "minecraft:iron_pickaxe",
       "minecraft:iron_shovel",
@@ -9129,7 +9129,7 @@
     "experience": 0.2,
     "cookingtime": 100,
     "group": "lapis_lazuli",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:deepslate_lapis_ore",
     "type": "minecraft:blasting"
   },
@@ -9140,7 +9140,7 @@
     "experience": 0.2,
     "cookingtime": 100,
     "group": "lapis_lazuli",
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:lapis_ore",
     "type": "minecraft:blasting"
   },
@@ -11222,7 +11222,7 @@
     },
     "experience": 2.0,
     "cookingtime": 100,
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:ancient_debris",
     "type": "minecraft:blasting"
   },
@@ -13804,7 +13804,7 @@
     },
     "experience": 0.2,
     "cookingtime": 100,
-    "category": "misc",
+    "category": "blast_furnace_misc",
     "ingredient": "minecraft:nether_quartz_ore",
     "type": "minecraft:blasting"
   },
@@ -14498,7 +14498,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "redstone",
-    "category": "blocks",
+    "category": "blast_furnace_blocks",
     "ingredient": "minecraft:deepslate_redstone_ore",
     "type": "minecraft:blasting"
   },
@@ -14509,7 +14509,7 @@
     "experience": 0.7,
     "cookingtime": 100,
     "group": "redstone",
-    "category": "blocks",
+    "category": "blast_furnace_blocks",
     "ingredient": "minecraft:redstone_ore",
     "type": "minecraft:blasting"
   },

@@ -54,6 +54,18 @@ tasks.register<Task>("parseRecipes") {
                         recipe.asJsonObject.addProperty("category", "crafting_$category")
                     }
                 }
+                
+                "minecraft:blasting" -> {
+                    if (category != null && !category.startsWith("blast_furnace_")) {
+                        recipe.asJsonObject.addProperty("category", "blast_furnace_$category")
+                    }
+                }
+                
+                "minecraft:smoking" -> {
+                    if (category != null && !category.startsWith("smoker_")) {
+                        recipe.asJsonObject.addProperty("category", "smoker_$category")
+                    }
+                }
             }
         }
         

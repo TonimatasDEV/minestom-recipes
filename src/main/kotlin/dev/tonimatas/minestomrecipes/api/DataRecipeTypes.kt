@@ -1,8 +1,10 @@
 package dev.tonimatas.minestomrecipes.api
 
 import com.google.gson.JsonObject
+import dev.tonimatas.minestomrecipes.types.BlastingRecipe
 import dev.tonimatas.minestomrecipes.types.CraftingShapelessRecipe
 import dev.tonimatas.minestomrecipes.types.SmeltingRecipe
+import dev.tonimatas.minestomrecipes.types.SmokingRecipe
 import net.minestom.server.codec.Transcoder
 import net.minestom.server.recipe.Recipe
 import java.util.Locale
@@ -40,12 +42,12 @@ enum class DataRecipeTypes {
             CRAFTING_SPECIAL_ARMORDYE -> null
             SMELTING -> SmeltingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             CAMPFIRE_COOKING -> null
-            SMOKING -> null
+            SMOKING -> SmokingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             CRAFTING_SPECIAL_BANNERDUPLICATE -> null
             CRAFTING_TRANSMUTE -> null
             SMITHING_TRIM -> null
             CRAFTING_SPECIAL_BOOKCLONING -> null
-            BLASTING -> null
+            BLASTING -> BlastingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             CRAFTING_DECORATED_POT -> null
             CRAFTING_SPECIAL_FIREWORK_ROCKET -> null
             CRAFTING_SPECIAL_FIREWORK_STAR -> null

@@ -7,10 +7,10 @@
 - [ ] minecraft:stonecutting
 - [x] minecraft:smelting
 - [ ] minecraft:campfire_cooking
-- [ ] minecraft:smoking
+- [x] minecraft:smoking
 - [ ] minecraft:crafting_transmute
 - [ ] minecraft:smithing_trim
-- [ ] minecraft:blasting
+- [x] minecraft:blasting
 - [ ] minecraft:smithing_transform
 
 ## Special:
