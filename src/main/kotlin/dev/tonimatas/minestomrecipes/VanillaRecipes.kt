@@ -1,6 +1,6 @@
 package dev.tonimatas.minestomrecipes
 
-import dev.tonimatas.minestomrecipes.api.AllRecipeTypes
+import dev.tonimatas.minestomrecipes.api.DataRecipeTypes
 import dev.tonimatas.minestomrecipes.util.RecipesUtils
 import net.minestom.server.MinecraftServer
 
@@ -13,7 +13,7 @@ object VanillaRecipes {
         var count = 0
         for (rawRecipe in recipes) {
             val recipeJson = rawRecipe.asJsonObject
-            val recipe = AllRecipeTypes.from(recipeJson)
+            val recipe = DataRecipeTypes.from(recipeJson)
             
             if (recipe != null) {
                 MinecraftServer.getRecipeManager().addRecipe(recipe)

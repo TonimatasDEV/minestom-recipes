@@ -6,7 +6,7 @@ import net.minestom.server.codec.Transcoder
 import net.minestom.server.recipe.Recipe
 import java.util.Locale
 
-enum class AllRecipeTypes {
+enum class DataRecipeTypes {
     CRAFTING_SHAPED,
     CRAFTING_SHAPELESS,
     STONECUTTING,
