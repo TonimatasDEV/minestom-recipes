@@ -5,7 +5,7 @@
 - [ ] minecraft:crafting_shaped
 - [x] minecraft:crafting_shapeless
 - [ ] minecraft:stonecutting
-- [ ] minecraft:smelting
+- [x] minecraft:smelting
 - [ ] minecraft:campfire_cooking
 - [ ] minecraft:smoking
 - [ ] minecraft:crafting_transmute

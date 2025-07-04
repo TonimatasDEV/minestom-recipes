@@ -2,6 +2,7 @@ package dev.tonimatas.minestomrecipes.api
 
 import com.google.gson.JsonObject
 import dev.tonimatas.minestomrecipes.types.CraftingShapelessRecipe
+import dev.tonimatas.minestomrecipes.types.SmeltingRecipe
 import net.minestom.server.codec.Transcoder
 import net.minestom.server.recipe.Recipe
 import java.util.Locale
@@ -34,10 +35,10 @@ enum class DataRecipeTypes {
     fun get(json: JsonObject): Recipe? {
         return when (this) {
             CRAFTING_SHAPED -> null
-            CRAFTING_SHAPELESS -> CraftingShapelessRecipe.Companion.CODEC.decode(Transcoder.JSON, json).orElse(null)
+            CRAFTING_SHAPELESS -> CraftingShapelessRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             STONECUTTING -> null
             CRAFTING_SPECIAL_ARMORDYE -> null
-            SMELTING -> null
+            SMELTING -> SmeltingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             CAMPFIRE_COOKING -> null
             SMOKING -> null
             CRAFTING_SPECIAL_BANNERDUPLICATE -> null

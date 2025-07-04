@@ -13,38 +13,37 @@ import net.minestom.server.recipe.RecipeBookCategory
 import net.minestom.server.recipe.display.RecipeDisplay
 import net.minestom.server.recipe.display.SlotDisplay
 
-
-class CraftingShapelessRecipe(val group: String?, val category: RecipeBookCategory, val result: RecipeResult, val ingredients: List<String>) : Recipe {
+class SmeltingRecipe(val result: RecipeResult, val experience: Float, val category: RecipeBookCategory, val cookingTime: Int, val ingredient: String) : Recipe {
     override fun createRecipeDisplays(): List<RecipeDisplay?> {
         return listOf(
-            RecipeDisplay.CraftingShapeless(
-                RecipesUtils.getIngredients(ingredients),
+            RecipeDisplay.Furnace(
+                RecipesUtils.getIngredients(listOf(ingredient)).first(),
+                SlotDisplay.AnyFuel.INSTANCE,
                 SlotDisplay.ItemStack(result.getResult()),
-                SlotDisplay.Item(Material.CRAFTING_TABLE)
+                SlotDisplay.Item(Material.FURNACE),
+                cookingTime,
+                experience
             )
         )
     }
 
     override fun craftingRequirements(): List<Ingredient?>? {
-        val displaySlots = RecipesUtils.getIngredients(ingredients)
+        val displaySlots = RecipesUtils.getIngredients(listOf(ingredient))
         return displaySlots.map { IngredientUtils.fromSlotDisplay(it) }.toList()
     }
 
     override fun recipeBookCategory(): RecipeBookCategory? {
         return category
     }
-
-    override fun recipeBookGroup(): String? {
-        return group
-    }
     
     companion object {
-        val CODEC: StructCodec<CraftingShapelessRecipe> = StructCodec.struct(
-            "group", Codec.STRING.optional(), CraftingShapelessRecipe::group,
-            "category", RecipeBookCategory.CODEC.optional(), CraftingShapelessRecipe::category,
-            "result", ExtraCodecs.RESULT.optional(), CraftingShapelessRecipe::result,
-            "ingredients", Codec.STRING.list(), CraftingShapelessRecipe::ingredients,
-            ::CraftingShapelessRecipe
+        val CODEC: StructCodec<SmeltingRecipe> = StructCodec.struct(
+            "result", ExtraCodecs.RESULT.optional(), SmeltingRecipe::result,
+            "experience", Codec.FLOAT.optional(), SmeltingRecipe::experience,
+            "category", RecipeBookCategory.CODEC.optional(), SmeltingRecipe::category,
+            "cookingtime", Codec.INT.optional(), SmeltingRecipe::cookingTime,
+            "ingredient", Codec.STRING.optional(), SmeltingRecipe::ingredient,
+            ::SmeltingRecipe
         )
     }
 }

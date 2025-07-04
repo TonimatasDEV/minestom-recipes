@@ -35,7 +35,7 @@ class TestServer {
                 event.player.setGameMode(GameMode.CREATIVE) 
             }
             .addListener(PlayerPickBlockEvent::class.java) { event: PlayerPickBlockEvent ->
-                event.player.openInventory(Inventory(InventoryType.CRAFTING, "Crafting Test"))
+                event.player.openInventory(Inventory(InventoryType.FURNACE, "Crafting Test"))
             }
             .addListener(PlayerBlockBreakEvent::class.java) { event: PlayerBlockBreakEvent ->
                 if (event.player.gameMode == GameMode.CREATIVE) {
