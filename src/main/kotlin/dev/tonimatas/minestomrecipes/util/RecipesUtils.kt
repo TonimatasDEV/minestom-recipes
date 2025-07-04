@@ -2,9 +2,7 @@ package dev.tonimatas.minestomrecipes.util
 
 import com.google.gson.GsonBuilder
 import com.google.gson.JsonArray
-import net.minestom.server.MinecraftServer
 import net.minestom.server.item.Material
-import net.minestom.server.recipe.RecipeBookCategory
 import net.minestom.server.recipe.display.SlotDisplay
 import net.minestom.server.registry.TagKey
 
@@ -19,19 +17,6 @@ object RecipesUtils {
         }
         
         return GSON.fromJson(inputStream.bufferedReader(), JsonArray::class.java)
-    }
-    
-    fun getCategory(category: String): RecipeBookCategory? {
-        return when (category) {
-            "redstone" -> RecipeBookCategory.CRAFTING_REDSTONE
-            "misc" -> RecipeBookCategory.CRAFTING_MISC
-            "building" -> RecipeBookCategory.CRAFTING_BUILDING_BLOCKS
-            "equipment" -> RecipeBookCategory.CRAFTING_EQUIPMENT
-            else -> {
-                MinecraftServer.LOGGER.warn("Unhandled recipe category: {}", category)
-                return null
-            }
-        }
     }
     
     fun getIngredients(ingredients: List<String>): List<SlotDisplay> {

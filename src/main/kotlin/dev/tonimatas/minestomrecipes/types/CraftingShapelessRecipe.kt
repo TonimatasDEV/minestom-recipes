@@ -14,7 +14,7 @@ import net.minestom.server.recipe.display.RecipeDisplay
 import net.minestom.server.recipe.display.SlotDisplay
 
 
-class CraftingShapelessRecipe(val group: String?, val category: String, val result: RecipeResult, val ingredients: List<String>, val type: String) : Recipe {
+class CraftingShapelessRecipe(val group: String?, val category: RecipeBookCategory, val result: RecipeResult, val ingredients: List<String>, val type: String) : Recipe {
     override fun createRecipeDisplays(): List<RecipeDisplay?> {
         return listOf(
             RecipeDisplay.CraftingShapeless(
@@ -31,7 +31,7 @@ class CraftingShapelessRecipe(val group: String?, val category: String, val resu
     }
 
     override fun recipeBookCategory(): RecipeBookCategory? {
-        return RecipesUtils.getCategory(category)
+        return category
     }
 
     override fun recipeBookGroup(): String? {
@@ -41,7 +41,7 @@ class CraftingShapelessRecipe(val group: String?, val category: String, val resu
     companion object {
         val CODEC: StructCodec<CraftingShapelessRecipe> = StructCodec.struct(
             "group", Codec.STRING.optional(), CraftingShapelessRecipe::group,
-            "category", Codec.STRING.optional(), CraftingShapelessRecipe::category,
+            "category", RecipeBookCategory.CODEC.optional(), CraftingShapelessRecipe::category,
             "result", ExtraCodecs.RESULT.optional(), CraftingShapelessRecipe::result,
             "ingredients", Codec.STRING.list(), CraftingShapelessRecipe::ingredients,
             "type", Codec.STRING, CraftingShapelessRecipe::type,
