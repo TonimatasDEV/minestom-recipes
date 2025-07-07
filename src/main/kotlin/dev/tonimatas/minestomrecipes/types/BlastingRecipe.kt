@@ -14,8 +14,7 @@ class BlastingRecipe(
     cookingTime: Int,
     group: String?,
     ingredient: String
-) :
-    FurnaceRecipe(result, experience, category, cookingTime, group, ingredient, Material.BLAST_FURNACE) {
+) : FurnaceRecipe(result, experience, category, cookingTime, group, ingredient, Material.BLAST_FURNACE) {
 
     companion object {
         val CODEC: StructCodec<BlastingRecipe> = StructCodec.struct(

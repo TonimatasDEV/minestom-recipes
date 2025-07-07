@@ -14,8 +14,7 @@ class SmokingRecipe(
     cookingTime: Int,
     group: String?,
     ingredient: String
-) :
-    FurnaceRecipe(result, experience, category, cookingTime, group, ingredient, Material.SMOKER) {
+) : FurnaceRecipe(result, experience, category, cookingTime, group, ingredient, Material.SMOKER) {
 
     companion object {
         val CODEC: StructCodec<SmokingRecipe> = StructCodec.struct(

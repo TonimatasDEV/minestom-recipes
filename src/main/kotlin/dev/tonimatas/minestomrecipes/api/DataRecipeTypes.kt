@@ -1,13 +1,10 @@
 package dev.tonimatas.minestomrecipes.api
 
 import com.google.gson.JsonObject
-import dev.tonimatas.minestomrecipes.types.BlastingRecipe
-import dev.tonimatas.minestomrecipes.types.CraftingShapelessRecipe
-import dev.tonimatas.minestomrecipes.types.SmeltingRecipe
-import dev.tonimatas.minestomrecipes.types.SmokingRecipe
+import dev.tonimatas.minestomrecipes.types.*
 import net.minestom.server.codec.Transcoder
 import net.minestom.server.recipe.Recipe
-import java.util.Locale
+import java.util.*
 
 enum class DataRecipeTypes {
     CRAFTING_SHAPED,
@@ -41,7 +38,7 @@ enum class DataRecipeTypes {
             STONECUTTING -> null
             CRAFTING_SPECIAL_ARMORDYE -> null
             SMELTING -> SmeltingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
-            CAMPFIRE_COOKING -> null
+            CAMPFIRE_COOKING -> CampfireRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             SMOKING -> SmokingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
             CRAFTING_SPECIAL_BANNERDUPLICATE -> null
             CRAFTING_TRANSMUTE -> null
@@ -67,6 +64,11 @@ enum class DataRecipeTypes {
             val rawType = recipe["type"].asString
             val typeString = rawType.replace("minecraft:", "")
             val type = valueOf(typeString.uppercase(Locale.ENGLISH))
+            
+            if (type == CAMPFIRE_COOKING) {
+                println("Recipe: ${recipe.get("ingredient").asString}")
+            }
+            
             return type.get(recipe)
         }
     }
