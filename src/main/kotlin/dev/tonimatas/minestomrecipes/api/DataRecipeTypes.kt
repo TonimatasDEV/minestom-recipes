@@ -34,17 +34,17 @@ enum class DataRecipeTypes {
     fun get(json: JsonObject): Recipe? {
         return when (this) {
             CRAFTING_SHAPED -> null
-            CRAFTING_SHAPELESS -> CraftingShapelessRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
-            STONECUTTING -> null
+            CRAFTING_SHAPELESS -> CraftingShapelessRecipe.CODEC
+            STONECUTTING -> StonecuttingRecipe.CODEC
             CRAFTING_SPECIAL_ARMORDYE -> null
-            SMELTING -> SmeltingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
-            CAMPFIRE_COOKING -> CampfireRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
-            SMOKING -> SmokingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
+            SMELTING -> SmeltingRecipe.CODEC
+            CAMPFIRE_COOKING -> CampfireRecipe.CODEC
+            SMOKING -> SmokingRecipe.CODEC
             CRAFTING_SPECIAL_BANNERDUPLICATE -> null
             CRAFTING_TRANSMUTE -> null
             SMITHING_TRIM -> null
             CRAFTING_SPECIAL_BOOKCLONING -> null
-            BLASTING -> BlastingRecipe.CODEC.decode(Transcoder.JSON, json).orElse(null)
+            BLASTING -> BlastingRecipe.CODEC
             CRAFTING_DECORATED_POT -> null
             CRAFTING_SPECIAL_FIREWORK_ROCKET -> null
             CRAFTING_SPECIAL_FIREWORK_STAR -> null
@@ -56,7 +56,7 @@ enum class DataRecipeTypes {
             CRAFTING_SPECIAL_SHIELDDECORATION -> null
             CRAFTING_SPECIAL_TIPPEDARROW -> null
             UNKNOWN -> null
-        }
+        }?.decode(Transcoder.JSON, json)?.orElse(null)
     }
     
     companion object {

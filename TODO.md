@@ -4,9 +4,9 @@
 
 - [ ] minecraft:crafting_shaped
 - [x] minecraft:crafting_shapeless
-- [ ] minecraft:stonecutting
+- [x] minecraft:stonecutting
 - [x] minecraft:smelting
-- [ ] minecraft:campfire_cooking
+- [x] minecraft:campfire_cooking
 - [x] minecraft:smoking
 - [ ] minecraft:crafting_transmute
 - [ ] minecraft:smithing_trim
