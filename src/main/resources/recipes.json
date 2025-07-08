@@ -12,7 +12,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -54,7 +54,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -71,7 +71,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -88,7 +88,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -106,7 +106,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -133,7 +133,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -151,7 +151,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -166,7 +166,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -183,7 +183,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -199,7 +199,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -215,7 +215,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -233,7 +233,7 @@
       "id": "minecraft:activator_rail",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -248,7 +248,7 @@
       "id": "minecraft:amethyst_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -274,7 +274,7 @@
       "id": "minecraft:andesite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -298,7 +298,7 @@
       "id": "minecraft:andesite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -321,7 +321,7 @@
       "id": "minecraft:andesite_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -346,7 +346,7 @@
       "id": "minecraft:anvil",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -367,7 +367,7 @@
       "id": "minecraft:armor_stand",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -385,7 +385,7 @@
       "id": "minecraft:arrow",
       "count": 4
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -476,7 +476,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -493,7 +493,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -510,7 +510,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -528,7 +528,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -543,7 +543,7 @@
       "id": "minecraft:bamboo_mosaic",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -557,7 +557,7 @@
       "id": "minecraft:bamboo_mosaic_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -573,7 +573,7 @@
       "id": "minecraft:bamboo_mosaic_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -600,7 +600,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -616,7 +616,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -634,7 +634,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -649,7 +649,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -666,7 +666,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -682,7 +682,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -703,7 +703,7 @@
       "id": "minecraft:barrel",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -721,7 +721,7 @@
       "id": "minecraft:beacon",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -738,7 +738,7 @@
       "id": "minecraft:beehive",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -771,7 +771,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -813,7 +813,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -830,7 +830,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -847,7 +847,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -865,7 +865,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -892,7 +892,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -910,7 +910,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -925,7 +925,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -942,7 +942,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -958,7 +958,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -974,7 +974,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -992,7 +992,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1009,7 +1009,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1047,7 +1047,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1129,7 +1129,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1145,7 +1145,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1163,7 +1163,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1181,7 +1181,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1195,7 +1195,7 @@
       "id": "minecraft:blackstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1219,7 +1219,7 @@
       "id": "minecraft:blackstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1242,7 +1242,7 @@
       "id": "minecraft:blackstone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1268,7 +1268,7 @@
       "id": "minecraft:blast_furnace",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1297,7 +1297,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1314,7 +1314,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1352,7 +1352,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1453,7 +1453,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1469,7 +1469,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1487,7 +1487,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1505,7 +1505,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1526,7 +1526,7 @@
       "id": "minecraft:bolt_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1549,7 +1549,7 @@
       "id": "minecraft:bone_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1608,7 +1608,7 @@
       "id": "minecraft:bookshelf",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1637,7 +1637,7 @@
       "id": "minecraft:bow",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1652,7 +1652,7 @@
       "id": "minecraft:bowl",
       "count": 4
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1666,7 +1666,7 @@
       "id": "minecraft:bread",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1682,7 +1682,7 @@
       "id": "minecraft:brewing_stand",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1706,7 +1706,7 @@
       "id": "minecraft:brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1730,7 +1730,7 @@
       "id": "minecraft:brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1753,7 +1753,7 @@
       "id": "minecraft:brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1776,7 +1776,7 @@
       "id": "minecraft:bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1794,7 +1794,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1811,7 +1811,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1849,7 +1849,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1919,7 +1919,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1935,7 +1935,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1953,7 +1953,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1971,7 +1971,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -1989,7 +1989,7 @@
       "id": "minecraft:brush",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2004,7 +2004,7 @@
       "id": "minecraft:bucket",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2020,7 +2020,7 @@
       "id": "minecraft:bundle",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2039,7 +2039,7 @@
       "id": "minecraft:cake",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2055,7 +2055,7 @@
       "id": "minecraft:calibrated_sculk_sensor",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2073,7 +2073,7 @@
       "id": "minecraft:campfire",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2089,7 +2089,7 @@
       "id": "minecraft:candle",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2105,7 +2105,7 @@
       "id": "minecraft:carrot_on_a_stick",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2122,7 +2122,7 @@
       "id": "minecraft:cartography_table",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2138,7 +2138,7 @@
       "id": "minecraft:cauldron",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2155,7 +2155,7 @@
       "id": "minecraft:chain",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2181,7 +2181,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2223,7 +2223,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2240,7 +2240,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2257,7 +2257,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2275,7 +2275,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2302,7 +2302,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2320,7 +2320,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2335,7 +2335,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2352,7 +2352,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2368,7 +2368,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2384,7 +2384,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2400,7 +2400,7 @@
       "id": "minecraft:chest",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2429,7 +2429,7 @@
       "id": "minecraft:chiseled_bookshelf",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2444,7 +2444,7 @@
       "id": "minecraft:chiseled_copper",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2475,7 +2475,7 @@
       "id": "minecraft:chiseled_deepslate",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2498,7 +2498,7 @@
       "id": "minecraft:chiseled_nether_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2521,7 +2521,7 @@
       "id": "minecraft:chiseled_polished_blackstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2552,7 +2552,7 @@
       "id": "minecraft:chiseled_quartz_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2575,7 +2575,7 @@
       "id": "minecraft:chiseled_red_sandstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2598,7 +2598,7 @@
       "id": "minecraft:chiseled_resin_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2621,7 +2621,7 @@
       "id": "minecraft:chiseled_sandstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2644,7 +2644,7 @@
       "id": "minecraft:chiseled_stone_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2675,7 +2675,7 @@
       "id": "minecraft:chiseled_tuff",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2690,7 +2690,7 @@
       "id": "minecraft:chiseled_tuff_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2737,7 +2737,7 @@
       "id": "minecraft:clay",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2754,7 +2754,7 @@
       "id": "minecraft:clock",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2781,7 +2781,7 @@
       "id": "minecraft:coal_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2841,7 +2841,7 @@
       "id": "minecraft:coarse_dirt",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2859,7 +2859,7 @@
       "id": "minecraft:coast_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2880,7 +2880,7 @@
       "id": "minecraft:cobbled_deepslate_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2904,7 +2904,7 @@
       "id": "minecraft:cobbled_deepslate_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2927,7 +2927,7 @@
       "id": "minecraft:cobbled_deepslate_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2949,7 +2949,7 @@
       "id": "minecraft:cobblestone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2973,7 +2973,7 @@
       "id": "minecraft:cobblestone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -2996,7 +2996,7 @@
       "id": "minecraft:cobblestone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3022,7 +3022,7 @@
       "id": "minecraft:comparator",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3039,7 +3039,7 @@
       "id": "minecraft:compass",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3055,7 +3055,7 @@
       "id": "minecraft:composter",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3072,7 +3072,7 @@
       "id": "minecraft:conduit",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3297,7 +3297,7 @@
       "id": "minecraft:cookie",
       "count": 8
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3313,7 +3313,7 @@
       "id": "minecraft:copper_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3331,7 +3331,7 @@
       "id": "minecraft:copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3347,7 +3347,7 @@
       "id": "minecraft:copper_door",
       "count": 3
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3363,7 +3363,7 @@
       "id": "minecraft:copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3476,7 +3476,7 @@
       "id": "minecraft:copper_trapdoor",
       "count": 2
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3545,7 +3545,7 @@
       "id": "minecraft:crafter",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3561,7 +3561,7 @@
       "count": 1
     },
     "show_notification": false,
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3578,7 +3578,7 @@
       "id": "minecraft:creaking_heart",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3619,7 +3619,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3636,7 +3636,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3653,7 +3653,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3671,7 +3671,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3687,7 +3687,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3714,7 +3714,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3732,7 +3732,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3747,7 +3747,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3764,7 +3764,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3780,7 +3780,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3799,7 +3799,7 @@
       "id": "minecraft:crossbow",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3814,7 +3814,7 @@
       "id": "minecraft:cut_copper",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3836,7 +3836,7 @@
       "id": "minecraft:cut_copper_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3868,7 +3868,7 @@
       "id": "minecraft:cut_copper_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3899,7 +3899,7 @@
       "id": "minecraft:cut_red_sandstone",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3921,7 +3921,7 @@
       "id": "minecraft:cut_red_sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3952,7 +3952,7 @@
       "id": "minecraft:cut_sandstone",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -3974,7 +3974,7 @@
       "id": "minecraft:cut_sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4008,7 +4008,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4025,7 +4025,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4063,7 +4063,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4146,7 +4146,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4162,7 +4162,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4180,7 +4180,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4198,7 +4198,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4214,7 +4214,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4256,7 +4256,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4273,7 +4273,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4290,7 +4290,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4308,7 +4308,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4335,7 +4335,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4353,7 +4353,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4368,7 +4368,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4385,7 +4385,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4401,7 +4401,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4417,7 +4417,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4434,7 +4434,7 @@
       "id": "minecraft:dark_prismarine",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4448,7 +4448,7 @@
       "id": "minecraft:dark_prismarine_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4472,7 +4472,7 @@
       "id": "minecraft:dark_prismarine_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4498,7 +4498,7 @@
       "id": "minecraft:daylight_detector",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4518,7 +4518,7 @@
       "id": "minecraft:decorated_pot",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4542,7 +4542,7 @@
       "id": "minecraft:deepslate_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4582,7 +4582,7 @@
       "id": "minecraft:deepslate_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4621,7 +4621,7 @@
       "id": "minecraft:deepslate_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4660,7 +4660,7 @@
       "id": "minecraft:deepslate_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4690,7 +4690,7 @@
       "id": "minecraft:deepslate_tile_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4738,7 +4738,7 @@
       "id": "minecraft:deepslate_tile_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4785,7 +4785,7 @@
       "id": "minecraft:deepslate_tile_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4832,7 +4832,7 @@
       "id": "minecraft:deepslate_tiles",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4874,7 +4874,7 @@
       "id": "minecraft:detector_rail",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4902,7 +4902,7 @@
       "id": "minecraft:diamond_axe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4918,7 +4918,7 @@
       "id": "minecraft:diamond_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4933,7 +4933,7 @@
       "id": "minecraft:diamond_boots",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -4949,7 +4949,7 @@
       "id": "minecraft:diamond_chestplate",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5008,7 +5008,7 @@
       "id": "minecraft:diamond_helmet",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5025,7 +5025,7 @@
       "id": "minecraft:diamond_hoe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5041,7 +5041,7 @@
       "id": "minecraft:diamond_leggings",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5058,7 +5058,7 @@
       "id": "minecraft:diamond_pickaxe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5075,7 +5075,7 @@
       "id": "minecraft:diamond_shovel",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5092,7 +5092,7 @@
       "id": "minecraft:diamond_sword",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5108,7 +5108,7 @@
       "id": "minecraft:diorite",
       "count": 2
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5122,7 +5122,7 @@
       "id": "minecraft:diorite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5146,7 +5146,7 @@
       "id": "minecraft:diorite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5169,7 +5169,7 @@
       "id": "minecraft:diorite_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5195,7 +5195,7 @@
       "id": "minecraft:dispenser",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5222,7 +5222,7 @@
       "id": "minecraft:dried_kelp_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5267,7 +5267,7 @@
       "id": "minecraft:dripstone_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5284,7 +5284,7 @@
       "id": "minecraft:dropper",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -5302,7 +5302,7 @@
       "id": "minecraft:dune_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6728,7 +6728,7 @@
       "id": "minecraft:emerald_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6790,7 +6790,7 @@
       "id": "minecraft:enchanting_table",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6808,7 +6808,7 @@
       "id": "minecraft:end_crystal",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6824,7 +6824,7 @@
       "id": "minecraft:end_rod",
       "count": 4
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6838,7 +6838,7 @@
       "id": "minecraft:end_stone_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6870,7 +6870,7 @@
       "id": "minecraft:end_stone_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6901,7 +6901,7 @@
       "id": "minecraft:end_stone_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6932,7 +6932,7 @@
       "id": "minecraft:end_stone_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6957,7 +6957,7 @@
       "id": "minecraft:ender_chest",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -6984,7 +6984,7 @@
       "id": "minecraft:exposed_chiseled_copper",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7018,7 +7018,7 @@
       "id": "minecraft:exposed_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7034,7 +7034,7 @@
       "id": "minecraft:exposed_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7057,7 +7057,7 @@
       "id": "minecraft:exposed_cut_copper",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7079,7 +7079,7 @@
       "id": "minecraft:exposed_cut_copper_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7111,7 +7111,7 @@
       "id": "minecraft:exposed_cut_copper_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7145,7 +7145,7 @@
       "id": "minecraft:eye_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7234,7 +7234,7 @@
       "id": "minecraft:fishing_rod",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7251,7 +7251,7 @@
       "id": "minecraft:fletching_table",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7281,7 +7281,7 @@
       "id": "minecraft:flow_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7315,7 +7315,7 @@
       "id": "minecraft:flower_pot",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7331,7 +7331,7 @@
       "id": "minecraft:furnace",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7368,7 +7368,7 @@
       "id": "minecraft:glass_bottle",
       "count": 3
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7383,7 +7383,7 @@
       "id": "minecraft:glass_pane",
       "count": 16
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7400,7 +7400,7 @@
       "id": "minecraft:glistering_melon_slice",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7427,7 +7427,7 @@
       "id": "minecraft:glowstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7443,7 +7443,7 @@
       "id": "minecraft:gold_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7516,7 +7516,7 @@
       "count": 1
     },
     "group": "gold_ingot",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7630,7 +7630,7 @@
       "id": "minecraft:golden_apple",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7647,7 +7647,7 @@
       "id": "minecraft:golden_axe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7662,7 +7662,7 @@
       "id": "minecraft:golden_boots",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7679,7 +7679,7 @@
       "id": "minecraft:golden_carrot",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7695,7 +7695,7 @@
       "id": "minecraft:golden_chestplate",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7710,7 +7710,7 @@
       "id": "minecraft:golden_helmet",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7727,7 +7727,7 @@
       "id": "minecraft:golden_hoe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7743,7 +7743,7 @@
       "id": "minecraft:golden_leggings",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7760,7 +7760,7 @@
       "id": "minecraft:golden_pickaxe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7777,7 +7777,7 @@
       "id": "minecraft:golden_shovel",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7794,7 +7794,7 @@
       "id": "minecraft:golden_sword",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7820,7 +7820,7 @@
       "id": "minecraft:granite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7844,7 +7844,7 @@
       "id": "minecraft:granite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7867,7 +7867,7 @@
       "id": "minecraft:granite_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7893,7 +7893,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7910,7 +7910,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -7948,7 +7948,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8031,7 +8031,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8047,7 +8047,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8065,7 +8065,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8083,7 +8083,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8101,7 +8101,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8118,7 +8118,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8156,7 +8156,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8224,7 +8224,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8240,7 +8240,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8258,7 +8258,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8276,7 +8276,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8293,7 +8293,7 @@
       "id": "minecraft:grindstone",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8326,7 +8326,7 @@
       "id": "minecraft:heavy_weighted_pressure_plate",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8341,7 +8341,7 @@
       "id": "minecraft:honey_block",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8371,7 +8371,7 @@
       "id": "minecraft:honeycomb_block",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8388,7 +8388,7 @@
       "id": "minecraft:hopper",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8418,7 +8418,7 @@
       "id": "minecraft:host_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8442,7 +8442,7 @@
       "id": "minecraft:iron_axe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8457,7 +8457,7 @@
       "id": "minecraft:iron_bars",
       "count": 16
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8473,7 +8473,7 @@
       "id": "minecraft:iron_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8488,7 +8488,7 @@
       "id": "minecraft:iron_boots",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8504,7 +8504,7 @@
       "id": "minecraft:iron_chestplate",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8520,7 +8520,7 @@
       "id": "minecraft:iron_door",
       "count": 3
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8535,7 +8535,7 @@
       "id": "minecraft:iron_helmet",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8552,7 +8552,7 @@
       "id": "minecraft:iron_hoe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8614,7 +8614,7 @@
       "count": 1
     },
     "group": "iron_ingot",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8663,7 +8663,7 @@
       "id": "minecraft:iron_leggings",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8741,7 +8741,7 @@
       "id": "minecraft:iron_pickaxe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8758,7 +8758,7 @@
       "id": "minecraft:iron_shovel",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8775,7 +8775,7 @@
       "id": "minecraft:iron_sword",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8790,7 +8790,7 @@
       "id": "minecraft:iron_trapdoor",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8807,7 +8807,7 @@
       "id": "minecraft:item_frame",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8823,7 +8823,7 @@
       "id": "minecraft:jack_o_lantern",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8840,7 +8840,7 @@
       "id": "minecraft:jukebox",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8856,7 +8856,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8898,7 +8898,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8915,7 +8915,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8932,7 +8932,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8950,7 +8950,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8977,7 +8977,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -8995,7 +8995,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9010,7 +9010,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9027,7 +9027,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9043,7 +9043,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9059,7 +9059,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9075,7 +9075,7 @@
       "id": "minecraft:ladder",
       "count": 3
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9092,7 +9092,7 @@
       "id": "minecraft:lantern",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9108,7 +9108,7 @@
       "id": "minecraft:lapis_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9180,7 +9180,7 @@
       "id": "minecraft:lead",
       "count": 2
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9205,7 +9205,7 @@
       "id": "minecraft:leather",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9220,7 +9220,7 @@
       "id": "minecraft:leather_boots",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9236,7 +9236,7 @@
       "id": "minecraft:leather_chestplate",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9251,7 +9251,7 @@
       "id": "minecraft:leather_helmet",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9267,7 +9267,7 @@
       "id": "minecraft:leather_horse_armor",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9283,7 +9283,7 @@
       "id": "minecraft:leather_leggings",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9300,7 +9300,7 @@
       "id": "minecraft:lectern",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9316,7 +9316,7 @@
       "id": "minecraft:lever",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9334,7 +9334,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9351,7 +9351,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9389,7 +9389,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9472,7 +9472,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9488,7 +9488,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9506,7 +9506,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9524,7 +9524,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9542,7 +9542,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9559,7 +9559,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9597,7 +9597,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9718,7 +9718,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9734,7 +9734,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9752,7 +9752,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9770,7 +9770,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9784,7 +9784,7 @@
       "id": "minecraft:light_weighted_pressure_plate",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9800,7 +9800,7 @@
       "id": "minecraft:lightning_rod",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9818,7 +9818,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9835,7 +9835,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9873,7 +9873,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9953,7 +9953,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9969,7 +9969,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -9987,7 +9987,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10005,7 +10005,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10022,7 +10022,7 @@
       "id": "minecraft:lodestone",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10038,7 +10038,7 @@
       "id": "minecraft:loom",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10054,7 +10054,7 @@
       "id": "minecraft:mace",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10072,7 +10072,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10089,7 +10089,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10127,7 +10127,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10251,7 +10251,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10267,7 +10267,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10285,7 +10285,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10303,7 +10303,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10318,7 +10318,7 @@
       "id": "minecraft:magma_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10346,7 +10346,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10388,7 +10388,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10405,7 +10405,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10422,7 +10422,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10440,7 +10440,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10467,7 +10467,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10485,7 +10485,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10500,7 +10500,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10517,7 +10517,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10533,7 +10533,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10549,7 +10549,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10566,7 +10566,7 @@
       "id": "minecraft:map",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10619,7 +10619,7 @@
       "id": "minecraft:minecart",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10646,7 +10646,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10686,7 +10686,7 @@
       "id": "minecraft:mossy_cobblestone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10710,7 +10710,7 @@
       "id": "minecraft:mossy_cobblestone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10733,7 +10733,7 @@
       "id": "minecraft:mossy_cobblestone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10755,7 +10755,7 @@
       "id": "minecraft:mossy_stone_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10779,7 +10779,7 @@
       "id": "minecraft:mossy_stone_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10802,7 +10802,7 @@
       "id": "minecraft:mossy_stone_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10850,7 +10850,7 @@
       "id": "minecraft:mud_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10874,7 +10874,7 @@
       "id": "minecraft:mud_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10897,7 +10897,7 @@
       "id": "minecraft:mud_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10920,7 +10920,7 @@
       "id": "minecraft:mud_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -10990,7 +10990,7 @@
       "id": "minecraft:nether_brick_fence",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11004,7 +11004,7 @@
       "id": "minecraft:nether_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11028,7 +11028,7 @@
       "id": "minecraft:nether_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11051,7 +11051,7 @@
       "id": "minecraft:nether_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11074,7 +11074,7 @@
       "id": "minecraft:nether_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11118,7 +11118,7 @@
       "id": "minecraft:netherite_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11259,7 +11259,7 @@
       "id": "minecraft:netherite_upgrade_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11276,7 +11276,7 @@
       "id": "minecraft:note_block",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11292,7 +11292,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11334,7 +11334,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11351,7 +11351,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11368,7 +11368,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11386,7 +11386,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11413,7 +11413,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11431,7 +11431,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11446,7 +11446,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11463,7 +11463,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11479,7 +11479,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11495,7 +11495,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11513,7 +11513,7 @@
       "id": "minecraft:observer",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11531,7 +11531,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11548,7 +11548,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11586,7 +11586,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11693,7 +11693,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11709,7 +11709,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11727,7 +11727,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11745,7 +11745,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11760,7 +11760,7 @@
       "id": "minecraft:oxidized_chiseled_copper",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11794,7 +11794,7 @@
       "id": "minecraft:oxidized_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11810,7 +11810,7 @@
       "id": "minecraft:oxidized_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11833,7 +11833,7 @@
       "id": "minecraft:oxidized_cut_copper",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11855,7 +11855,7 @@
       "id": "minecraft:oxidized_cut_copper_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11887,7 +11887,7 @@
       "id": "minecraft:oxidized_cut_copper_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11951,7 +11951,7 @@
       "id": "minecraft:painting",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11966,7 +11966,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -11982,7 +11982,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12024,7 +12024,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12041,7 +12041,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12058,7 +12058,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12076,7 +12076,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12103,7 +12103,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12121,7 +12121,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12136,7 +12136,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12153,7 +12153,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12169,7 +12169,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12185,7 +12185,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12199,7 +12199,7 @@
       "id": "minecraft:paper",
       "count": 3
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12217,7 +12217,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12234,7 +12234,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12272,7 +12272,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12391,7 +12391,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12407,7 +12407,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12425,7 +12425,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12443,7 +12443,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12462,7 +12462,7 @@
       "id": "minecraft:piston",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12477,7 +12477,7 @@
       "id": "minecraft:polished_andesite",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12499,7 +12499,7 @@
       "id": "minecraft:polished_andesite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12531,7 +12531,7 @@
       "id": "minecraft:polished_andesite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12562,7 +12562,7 @@
       "id": "minecraft:polished_basalt",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12585,7 +12585,7 @@
       "id": "minecraft:polished_blackstone",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12599,7 +12599,7 @@
       "id": "minecraft:polished_blackstone_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12639,7 +12639,7 @@
       "id": "minecraft:polished_blackstone_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12678,7 +12678,7 @@
       "id": "minecraft:polished_blackstone_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12717,7 +12717,7 @@
       "id": "minecraft:polished_blackstone_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12766,7 +12766,7 @@
       "id": "minecraft:polished_blackstone_pressure_plate",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12780,7 +12780,7 @@
       "id": "minecraft:polished_blackstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12812,7 +12812,7 @@
       "id": "minecraft:polished_blackstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12843,7 +12843,7 @@
       "id": "minecraft:polished_blackstone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12874,7 +12874,7 @@
       "id": "minecraft:polished_deepslate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12896,7 +12896,7 @@
       "id": "minecraft:polished_deepslate_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12928,7 +12928,7 @@
       "id": "minecraft:polished_deepslate_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12959,7 +12959,7 @@
       "id": "minecraft:polished_deepslate_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -12990,7 +12990,7 @@
       "id": "minecraft:polished_diorite",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13012,7 +13012,7 @@
       "id": "minecraft:polished_diorite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13044,7 +13044,7 @@
       "id": "minecraft:polished_diorite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13075,7 +13075,7 @@
       "id": "minecraft:polished_granite",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13097,7 +13097,7 @@
       "id": "minecraft:polished_granite_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13129,7 +13129,7 @@
       "id": "minecraft:polished_granite_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13160,7 +13160,7 @@
       "id": "minecraft:polished_tuff",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13182,7 +13182,7 @@
       "id": "minecraft:polished_tuff_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13214,7 +13214,7 @@
       "id": "minecraft:polished_tuff_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13245,7 +13245,7 @@
       "id": "minecraft:polished_tuff_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13289,7 +13289,7 @@
       "id": "minecraft:powered_rail",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13304,7 +13304,7 @@
       "id": "minecraft:prismarine",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13318,7 +13318,7 @@
       "id": "minecraft:prismarine_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13342,7 +13342,7 @@
       "id": "minecraft:prismarine_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13383,7 +13383,7 @@
       "id": "minecraft:prismarine_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13407,7 +13407,7 @@
       "id": "minecraft:prismarine_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13430,7 +13430,7 @@
       "id": "minecraft:prismarine_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13480,7 +13480,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13497,7 +13497,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13535,7 +13535,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13605,7 +13605,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13621,7 +13621,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13639,7 +13639,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13657,7 +13657,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13672,7 +13672,7 @@
       "id": "minecraft:purpur_block",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13687,7 +13687,7 @@
       "id": "minecraft:purpur_pillar",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13712,7 +13712,7 @@
       "id": "minecraft:purpur_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13739,7 +13739,7 @@
       "id": "minecraft:purpur_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13772,7 +13772,7 @@
       "id": "minecraft:quartz_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13787,7 +13787,7 @@
       "id": "minecraft:quartz_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13820,7 +13820,7 @@
       "id": "minecraft:quartz_pillar",
       "count": 2
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13846,7 +13846,7 @@
       "id": "minecraft:quartz_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13874,7 +13874,7 @@
       "id": "minecraft:quartz_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13931,7 +13931,7 @@
       "id": "minecraft:rail",
       "count": 16
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13949,7 +13949,7 @@
       "id": "minecraft:raiser_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -13983,7 +13983,7 @@
       "id": "minecraft:raw_copper_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14010,7 +14010,7 @@
       "id": "minecraft:raw_gold_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14037,7 +14037,7 @@
       "id": "minecraft:raw_iron_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14054,7 +14054,7 @@
       "id": "minecraft:recovery_compass",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14072,7 +14072,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14089,7 +14089,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14127,7 +14127,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14219,7 +14219,7 @@
       "id": "minecraft:red_nether_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14243,7 +14243,7 @@
       "id": "minecraft:red_nether_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14266,7 +14266,7 @@
       "id": "minecraft:red_nether_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14290,7 +14290,7 @@
       "id": "minecraft:red_nether_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14305,7 +14305,7 @@
       "id": "minecraft:red_sandstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14322,7 +14322,7 @@
       "id": "minecraft:red_sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14350,7 +14350,7 @@
       "id": "minecraft:red_sandstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14373,7 +14373,7 @@
       "id": "minecraft:red_sandstone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14409,7 +14409,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14425,7 +14425,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14443,7 +14443,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14461,7 +14461,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14488,7 +14488,7 @@
       "id": "minecraft:redstone_block",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14549,7 +14549,7 @@
       "id": "minecraft:redstone_lamp",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14565,7 +14565,7 @@
       "id": "minecraft:redstone_torch",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14586,7 +14586,7 @@
       "id": "minecraft:repeater",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14602,7 +14602,7 @@
       "id": "minecraft:resin_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14626,7 +14626,7 @@
       "id": "minecraft:resin_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14650,7 +14650,7 @@
       "id": "minecraft:resin_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14673,7 +14673,7 @@
       "id": "minecraft:resin_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14696,7 +14696,7 @@
       "id": "minecraft:resin_bricks",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14724,7 +14724,7 @@
       "id": "minecraft:respawn_anchor",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14742,7 +14742,7 @@
       "id": "minecraft:rib_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14764,7 +14764,7 @@
       "id": "minecraft:sandstone",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14781,7 +14781,7 @@
       "id": "minecraft:sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14809,7 +14809,7 @@
       "id": "minecraft:sandstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14832,7 +14832,7 @@
       "id": "minecraft:sandstone_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14857,7 +14857,7 @@
       "id": "minecraft:scaffolding",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14874,7 +14874,7 @@
       "id": "minecraft:sea_lantern",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14892,7 +14892,7 @@
       "id": "minecraft:sentry_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14917,7 +14917,7 @@
       "id": "minecraft:shaper_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14939,7 +14939,7 @@
       "id": "minecraft:shears",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14956,7 +14956,7 @@
       "id": "minecraft:shield",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14977,7 +14977,7 @@
       "id": "minecraft:shulker_box",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -14995,7 +14995,7 @@
       "id": "minecraft:silence_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15041,7 +15041,7 @@
       "id": "minecraft:slime_block",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15058,7 +15058,7 @@
       "id": "minecraft:smithing_table",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15075,7 +15075,7 @@
       "id": "minecraft:smoker",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15109,7 +15109,7 @@
       "id": "minecraft:smooth_quartz_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15133,7 +15133,7 @@
       "id": "minecraft:smooth_quartz_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15165,7 +15165,7 @@
       "id": "minecraft:smooth_red_sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15189,7 +15189,7 @@
       "id": "minecraft:smooth_red_sandstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15221,7 +15221,7 @@
       "id": "minecraft:smooth_sandstone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15245,7 +15245,7 @@
       "id": "minecraft:smooth_sandstone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15277,7 +15277,7 @@
       "id": "minecraft:smooth_stone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15303,7 +15303,7 @@
       "id": "minecraft:snout_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15324,7 +15324,7 @@
       "id": "minecraft:snow",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15339,7 +15339,7 @@
       "id": "minecraft:snow_block",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15357,7 +15357,7 @@
       "id": "minecraft:soul_campfire",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15374,7 +15374,7 @@
       "id": "minecraft:soul_lantern",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15395,7 +15395,7 @@
       "id": "minecraft:soul_torch",
       "count": 4
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15412,7 +15412,7 @@
       "id": "minecraft:spectral_arrow",
       "count": 2
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15430,7 +15430,7 @@
       "id": "minecraft:spire_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15463,7 +15463,7 @@
       "count": 1
     },
     "group": "boat",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15505,7 +15505,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15522,7 +15522,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15539,7 +15539,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15557,7 +15557,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15584,7 +15584,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15602,7 +15602,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15617,7 +15617,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15634,7 +15634,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15650,7 +15650,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15666,7 +15666,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15683,7 +15683,7 @@
       "id": "minecraft:spyglass",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15699,7 +15699,7 @@
       "count": 4
     },
     "group": "sticks",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15715,7 +15715,7 @@
       "count": 1
     },
     "group": "sticks",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15731,7 +15731,7 @@
       "id": "minecraft:sticky_piston",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15758,7 +15758,7 @@
       "id": "minecraft:stone_axe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15772,7 +15772,7 @@
       "id": "minecraft:stone_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15804,7 +15804,7 @@
       "id": "minecraft:stone_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15835,7 +15835,7 @@
       "id": "minecraft:stone_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15866,7 +15866,7 @@
       "id": "minecraft:stone_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15902,7 +15902,7 @@
       "id": "minecraft:stone_hoe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15919,7 +15919,7 @@
       "id": "minecraft:stone_pickaxe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15933,7 +15933,7 @@
       "id": "minecraft:stone_pressure_plate",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15950,7 +15950,7 @@
       "id": "minecraft:stone_shovel",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15964,7 +15964,7 @@
       "id": "minecraft:stone_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -15988,7 +15988,7 @@
       "id": "minecraft:stone_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16013,7 +16013,7 @@
       "id": "minecraft:stone_sword",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16029,7 +16029,7 @@
       "id": "minecraft:stonecutter",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16045,7 +16045,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16061,7 +16061,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16077,7 +16077,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16093,7 +16093,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16109,7 +16109,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16125,7 +16125,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16141,7 +16141,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16157,7 +16157,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16173,7 +16173,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16189,7 +16189,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16205,7 +16205,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16614,7 +16614,7 @@
       "id": "minecraft:target",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16642,7 +16642,7 @@
       "id": "minecraft:tide_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16666,7 +16666,7 @@
       "id": "minecraft:tinted_glass",
       "count": 2
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16690,7 +16690,7 @@
       "id": "minecraft:tnt",
       "count": 1
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16721,7 +16721,7 @@
       "id": "minecraft:torch",
       "count": 4
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16751,7 +16751,7 @@
       "id": "minecraft:tripwire_hook",
       "count": 2
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16765,7 +16765,7 @@
       "id": "minecraft:tuff_brick_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16805,7 +16805,7 @@
       "id": "minecraft:tuff_brick_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16844,7 +16844,7 @@
       "id": "minecraft:tuff_brick_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16883,7 +16883,7 @@
       "id": "minecraft:tuff_bricks",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16913,7 +16913,7 @@
       "id": "minecraft:tuff_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16937,7 +16937,7 @@
       "id": "minecraft:tuff_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16960,7 +16960,7 @@
       "id": "minecraft:tuff_wall",
       "count": 6
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -16983,7 +16983,7 @@
       "id": "minecraft:turtle_helmet",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17001,7 +17001,7 @@
       "id": "minecraft:vex_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17026,7 +17026,7 @@
       "id": "minecraft:ward_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17062,7 +17062,7 @@
       "count": 3
     },
     "group": "wooden_door",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17079,7 +17079,7 @@
       "count": 3
     },
     "group": "wooden_fence",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17096,7 +17096,7 @@
       "count": 1
     },
     "group": "wooden_fence_gate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17112,7 +17112,7 @@
       "id": "minecraft:warped_fungus_on_a_stick",
       "count": 1
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17130,7 +17130,7 @@
       "count": 6
     },
     "group": "hanging_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17146,7 +17146,7 @@
       "count": 3
     },
     "group": "bark",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17173,7 +17173,7 @@
       "count": 1
     },
     "group": "wooden_pressure_plate",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17191,7 +17191,7 @@
       "count": 3
     },
     "group": "wooden_sign",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17206,7 +17206,7 @@
       "count": 6
     },
     "group": "wooden_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17223,7 +17223,7 @@
       "count": 4
     },
     "group": "wooden_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17239,7 +17239,7 @@
       "count": 2
     },
     "group": "wooden_trapdoor",
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17255,7 +17255,7 @@
       "count": 1
     },
     "group": "waxed_cut_copper_chiseled",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17315,7 +17315,7 @@
       "id": "minecraft:waxed_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17357,7 +17357,7 @@
       "id": "minecraft:waxed_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17407,7 +17407,7 @@
       "count": 4
     },
     "group": "waxed_cut_copper",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17443,7 +17443,7 @@
       "count": 6
     },
     "group": "waxed_cut_copper_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17489,7 +17489,7 @@
       "count": 4
     },
     "group": "waxed_cut_copper_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17534,7 +17534,7 @@
       "count": 1
     },
     "group": "waxed_exposed_cut_copper_chiseled",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17581,7 +17581,7 @@
       "id": "minecraft:waxed_exposed_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17636,7 +17636,7 @@
       "id": "minecraft:waxed_exposed_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17686,7 +17686,7 @@
       "count": 4
     },
     "group": "waxed_exposed_cut_copper",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17722,7 +17722,7 @@
       "count": 6
     },
     "group": "waxed_exposed_cut_copper_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17768,7 +17768,7 @@
       "count": 4
     },
     "group": "waxed_exposed_cut_copper_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17813,7 +17813,7 @@
       "count": 1
     },
     "group": "waxed_oxidized_cut_copper_chiseled",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17860,7 +17860,7 @@
       "id": "minecraft:waxed_oxidized_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17915,7 +17915,7 @@
       "id": "minecraft:waxed_oxidized_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -17965,7 +17965,7 @@
       "count": 4
     },
     "group": "waxed_oxidized_cut_copper",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18001,7 +18001,7 @@
       "count": 6
     },
     "group": "waxed_oxidized_cut_copper_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18047,7 +18047,7 @@
       "count": 4
     },
     "group": "waxed_oxidized_cut_copper_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18092,7 +18092,7 @@
       "count": 1
     },
     "group": "waxed_weathered_cut_copper_chiseled",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18139,7 +18139,7 @@
       "id": "minecraft:waxed_weathered_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18194,7 +18194,7 @@
       "id": "minecraft:waxed_weathered_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18244,7 +18244,7 @@
       "count": 4
     },
     "group": "waxed_weathered_cut_copper",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18280,7 +18280,7 @@
       "count": 6
     },
     "group": "waxed_weathered_cut_copper_slab",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18326,7 +18326,7 @@
       "count": 4
     },
     "group": "waxed_weathered_cut_copper_stairs",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18373,7 +18373,7 @@
       "id": "minecraft:wayfinder_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18395,7 +18395,7 @@
       "id": "minecraft:weathered_chiseled_copper",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18429,7 +18429,7 @@
       "id": "minecraft:weathered_copper_bulb",
       "count": 4
     },
-    "category": "redstone",
+    "category": "crafting_redstone",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18445,7 +18445,7 @@
       "id": "minecraft:weathered_copper_grate",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18468,7 +18468,7 @@
       "id": "minecraft:weathered_cut_copper",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18490,7 +18490,7 @@
       "id": "minecraft:weathered_cut_copper_slab",
       "count": 6
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18522,7 +18522,7 @@
       "id": "minecraft:weathered_cut_copper_stairs",
       "count": 4
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18567,7 +18567,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18584,7 +18584,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18622,7 +18622,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18704,7 +18704,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18720,7 +18720,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18738,7 +18738,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18756,7 +18756,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18771,7 +18771,7 @@
       "id": "minecraft:white_wool",
       "count": 1
     },
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18789,7 +18789,7 @@
       "id": "minecraft:wild_armor_trim_smithing_template",
       "count": 2
     },
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18823,7 +18823,7 @@
       "id": "minecraft:wolf_armor",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18840,7 +18840,7 @@
       "id": "minecraft:wooden_axe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18857,7 +18857,7 @@
       "id": "minecraft:wooden_hoe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18874,7 +18874,7 @@
       "id": "minecraft:wooden_pickaxe",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18891,7 +18891,7 @@
       "id": "minecraft:wooden_shovel",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18908,7 +18908,7 @@
       "id": "minecraft:wooden_sword",
       "count": 1
     },
-    "category": "equipment",
+    "category": "crafting_equipment",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18939,7 +18939,7 @@
       "count": 1
     },
     "group": "banner",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18956,7 +18956,7 @@
       "count": 1
     },
     "group": "bed",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -18994,7 +18994,7 @@
       "count": 3
     },
     "group": "carpet",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -19088,7 +19088,7 @@
       "count": 8
     },
     "group": "stained_glass",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -19104,7 +19104,7 @@
       "count": 16
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -19122,7 +19122,7 @@
       "count": 8
     },
     "group": "stained_glass_pane",
-    "category": "misc",
+    "category": "crafting_misc",
     "type": "minecraft:crafting_shaped"
   },
   {
@@ -19140,7 +19140,7 @@
       "count": 8
     },
     "group": "stained_terracotta",
-    "category": "building",
+    "category": "crafting_building_blocks",
     "type": "minecraft:crafting_shaped"
   }
 ]

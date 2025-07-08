@@ -44,7 +44,7 @@ tasks.register<Task>("parseRecipes") {
                     }
                 }
 
-                "minecraft:crafting_shapeless" -> {
+                "minecraft:crafting_shapeless", "minecraft:crafting_shaped" -> {
                     if (category != null && !category.startsWith("crafting_")) {
                         if (category == "building") {
                             recipe.asJsonObject.addProperty("category", "crafting_${category}_blocks")

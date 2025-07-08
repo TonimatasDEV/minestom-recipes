@@ -33,7 +33,7 @@ enum class DataRecipeTypes {
     
     fun get(json: JsonObject): Recipe? {
         return when (this) {
-            CRAFTING_SHAPED -> null
+            CRAFTING_SHAPED -> CraftingShapedRecipe.CODEC
             CRAFTING_SHAPELESS -> CraftingShapelessRecipe.CODEC
             STONECUTTING -> StonecuttingRecipe.CODEC
             CRAFTING_SPECIAL_ARMORDYE -> null

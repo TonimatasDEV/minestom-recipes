@@ -20,6 +20,15 @@ object IngredientUtils {
 
                 return Ingredient(materials)
             }
+            is SlotDisplay.Empty -> null
+            is SlotDisplay.Composite -> {
+                val materials = mutableListOf<Material>()
+                for (slot in slotDisplay.contents) {
+                    materials.addAll(fromSlotDisplay(slot)!!.items)
+                }
+                
+                return Ingredient(materials)
+            }
 
             else -> {
                 MinecraftServer.LOGGER.warn("Unknown slotDisplay type: ${slotDisplay.javaClass.simpleName}")
