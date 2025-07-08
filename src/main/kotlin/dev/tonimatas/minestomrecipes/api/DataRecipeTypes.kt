@@ -64,11 +64,6 @@ enum class DataRecipeTypes {
             val rawType = recipe["type"].asString
             val typeString = rawType.replace("minecraft:", "")
             val type = valueOf(typeString.uppercase(Locale.ENGLISH))
-            
-            if (type == CAMPFIRE_COOKING) {
-                println("Recipe: ${recipe.get("ingredient").asString}")
-            }
-            
             return type.get(recipe)
         }
     }
